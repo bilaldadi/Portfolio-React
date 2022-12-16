@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.749eeddc.css",
+    "main.js": "/Portfolio-React/static/js/main.7a9546e4.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio-React/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-React/static/js/787.1ed0c42c.chunk.js",
+    "static/media/oz.png": "/Portfolio-React/static/media/oz.bc4da7f636d872236928.png",
+    "static/media/shaaa.png": "/Portfolio-React/static/media/shaaa.8616b6f50b997306ab0e.png",
+    "static/media/home-main.svg": "/Portfolio-React/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio-React/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/Portfolio-React/static/media/logo.452312692c9419c7eb2a.png",
+    "static/media/Bilal's_Resume.pdf": "/Portfolio-React/static/media/Bilal's_Resume.f527226ce868e929c524.pdf",
+    "static/media/home-bg.jpg": "/Portfolio-React/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio-React/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/ESC.jpeg": "/Portfolio-React/static/media/ESC.d60ea5625edc290e4a33.jpeg",
+    "static/media/pre.svg": "/Portfolio-React/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio-React/index.html",
+    "main.749eeddc.css.map": "/Portfolio-React/static/css/main.749eeddc.css.map",
+    "main.7a9546e4.js.map": "/Portfolio-React/static/js/main.7a9546e4.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio-React/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-React/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.749eeddc.css",
+    "static/js/main.7a9546e4.js"
+  ]
+}
